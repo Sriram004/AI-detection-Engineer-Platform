@@ -1,0 +1,10 @@
+﻿{
+  "alert_name": "Multiple Failed Logins",
+  "timestamp": "2026-07-01T10:05:00Z",
+  "account": "jane.doe",
+  "source_ip": "203.0.113.55",
+  "event_id": 4625,
+  "failed_count": 120,
+  "window_minutes": 5,
+  "source": "Windows Security"
+}

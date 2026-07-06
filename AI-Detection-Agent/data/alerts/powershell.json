@@ -1,0 +1,11 @@
+﻿{
+  "alert_name": "Suspicious Encoded PowerShell",
+  "timestamp": "2026-07-01T12:30:44Z",
+  "hostname": "DESKTOP-101",
+  "user": "John",
+  "process": "powershell.exe",
+  "command": "powershell.exe -EncodedCommand SQBFAFgA",
+  "parent": "explorer.exe",
+  "event_id": 4688,
+  "source": "Windows Security"
+}

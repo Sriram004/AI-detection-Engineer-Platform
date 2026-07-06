@@ -1,0 +1,19 @@
+﻿{
+  "alert_name": "Impossible Travel",
+  "user_principal_name": "john@example.com",
+  "events": [
+    {
+      "timestamp": "2026-07-01T09:00:00Z",
+      "country": "India",
+      "ip_address": "103.12.45.22",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-07-01T09:20:00Z",
+      "country": "Germany",
+      "ip_address": "85.214.12.20",
+      "result": "success"
+    }
+  ],
+  "source": "Microsoft Entra ID SigninLogs"
+}

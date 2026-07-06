@@ -1,0 +1,10 @@
+﻿{
+  "alert_name": "New Local Administrator",
+  "timestamp": "2026-07-01T15:10:10Z",
+  "hostname": "FINANCE-PC04",
+  "user": "svc_backup",
+  "target_user": "temp_admin",
+  "group": "Administrators",
+  "event_id": 4728,
+  "source": "Windows Security"
+}

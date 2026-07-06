@@ -1,0 +1,10 @@
+﻿{
+  "alert_name": "Large Data Download Outside Business Hours",
+  "timestamp": "2026-07-01T22:15:00Z",
+  "user": "analyst@example.com",
+  "application": "SharePoint",
+  "bytes_downloaded": 4294967296,
+  "file_count": 137,
+  "source_ip": "198.51.100.20",
+  "source": "CloudAppEvents"
+}
